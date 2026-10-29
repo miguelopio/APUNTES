@@ -1,1 +1,9 @@
+<<<<<<< HEAD
 https://github.com/miguelopio/APUNTES/invitations
+=======
+Hola miguelo
+>>>>>>> 0390d050da2bcf60e94fb3e81f4a7837823855c9
+
+Gracias Erwin por colaborar conmigo...
+
+PUYANDO ES QUE SE APRENDE
